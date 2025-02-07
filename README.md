@@ -1,2 +1,3 @@
 # Preeti-chauhan
-this is my first repository
+this is my first repository.
+Authoe-preetichauhan
